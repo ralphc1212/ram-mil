@@ -1,2 +1,2 @@
 # RAM-MIL
-Code for Retrieval-Augmented Multiple Instance Learning.
+This repository contains preprint and code for Retrieval-Augmented Multiple Instance Learning (NeurIPS 2023).
