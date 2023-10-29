@@ -126,7 +126,7 @@ This code is made available under the GPLv3 License and is available for non-com
 
 ## Reference
 
-Please cite our paper if you use the core code of Bayes-MIL. 
+Please cite our paper if you use the core code of RAM-MIL. 
 
 Yufei, Cui, et al. "Retrieval-Augmented Multiple Instance Learning." Thirty-seventh Conference on Neural Information Processing Systems, 2023.
 
